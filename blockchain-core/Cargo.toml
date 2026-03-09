@@ -1,5 +1,6 @@
 [workspace]
 members = [
-    "pallets/reputation"
+    "pallets/reputation",
+    "runtime"
 ]
 resolver = "2"

@@ -1,0 +1,17 @@
+[package]
+name = "runtime"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+frame-support = { version = "38.0.0", default-features = false }
+frame-system = { version = "38.0.0", default-features = false }
+sp-std = { version = "14.0.0", default-features = false }
+
+[features]
+default = ["std"]
+std = [
+    "frame-support/std",
+    "frame-system/std",
+    "sp-std/std",
+]
