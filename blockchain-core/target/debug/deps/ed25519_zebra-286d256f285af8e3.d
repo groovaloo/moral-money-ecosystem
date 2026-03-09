@@ -1,0 +1,10 @@
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/deps/ed25519_zebra-286d256f285af8e3.d: /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/lib.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/batch.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/error.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/signing_key.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/verification_key.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/../README.md
+
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/deps/libed25519_zebra-286d256f285af8e3.rmeta: /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/lib.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/batch.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/error.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/signing_key.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/verification_key.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/../README.md
+
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/lib.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/batch.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/error.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/signing_key.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/verification_key.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/ed25519-zebra-4.1.0/src/../README.md:

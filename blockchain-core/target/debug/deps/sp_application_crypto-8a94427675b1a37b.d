@@ -1,0 +1,9 @@
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/deps/sp_application_crypto-8a94427675b1a37b.d: /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/lib.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/ecdsa.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/ed25519.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/sr25519.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/traits.rs
+
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/deps/libsp_application_crypto-8a94427675b1a37b.rmeta: /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/lib.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/ecdsa.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/ed25519.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/sr25519.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/traits.rs
+
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/lib.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/ecdsa.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/ed25519.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/sr25519.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/sp-application-crypto-38.0.0/src/traits.rs:

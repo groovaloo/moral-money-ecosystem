@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "pallets/reputation"
+]
+resolver = "2"

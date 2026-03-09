@@ -20,3 +20,19 @@ logistics
 Reputation gained in one domain does not automatically transfer to another domain.
 
 This ensures that expertise is recognized where it actually exists.
+
+Reputation Growth
+
+Reputation grows through successful participation in projects.
+
+Key factors that increase reputation include:
+
+- successful completion of tasks
+- reliability and consistency
+- positive feedback from collaborators
+- contribution to high-impact projects
+
+Reputation growth should not be linear.
+
+High-impact projects may generate significantly larger reputation gains than routine activities.
+

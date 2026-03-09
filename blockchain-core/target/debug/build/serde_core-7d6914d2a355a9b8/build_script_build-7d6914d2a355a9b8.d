@@ -1,0 +1,5 @@
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/build/serde_core-7d6914d2a355a9b8/build_script_build-7d6914d2a355a9b8.d: /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_core-1.0.228/build.rs
+
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/build/serde_core-7d6914d2a355a9b8/build_script_build-7d6914d2a355a9b8: /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_core-1.0.228/build.rs
+
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_core-1.0.228/build.rs:

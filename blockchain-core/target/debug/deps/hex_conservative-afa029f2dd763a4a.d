@@ -1,0 +1,10 @@
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/deps/hex_conservative-afa029f2dd763a4a.d: /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/lib.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/buf_encoder.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/display.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/error.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/iter.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/parse.rs
+
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/deps/libhex_conservative-afa029f2dd763a4a.rmeta: /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/lib.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/buf_encoder.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/display.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/error.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/iter.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/parse.rs
+
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/lib.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/buf_encoder.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/display.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/error.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/iter.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/hex-conservative-0.1.2/src/parse.rs:

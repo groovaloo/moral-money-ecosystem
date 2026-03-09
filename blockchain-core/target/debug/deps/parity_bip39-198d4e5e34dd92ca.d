@@ -1,0 +1,9 @@
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/deps/parity_bip39-198d4e5e34dd92ca.d: /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/lib.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/internal_macros.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/language/mod.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/language/english.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/pbkdf2.rs
+
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/deps/libparity_bip39-198d4e5e34dd92ca.rmeta: /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/lib.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/internal_macros.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/language/mod.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/language/english.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/pbkdf2.rs
+
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/lib.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/internal_macros.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/language/mod.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/language/english.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/parity-bip39-2.0.1/src/pbkdf2.rs:

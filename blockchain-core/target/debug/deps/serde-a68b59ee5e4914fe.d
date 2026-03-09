@@ -1,0 +1,14 @@
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/deps/serde-a68b59ee5e4914fe.d: /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/build/serde-f038669a2f42987f/out/private.rs
+
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/deps/libserde-a68b59ee5e4914fe.rlib: /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/build/serde-f038669a2f42987f/out/private.rs
+
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/deps/libserde-a68b59ee5e4914fe.rmeta: /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/build/serde-f038669a2f42987f/out/private.rs
+
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/nunocunha/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/build/serde-f038669a2f42987f/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/nunocunha/moral-money-ecosystem/blockchain-core/target/debug/build/serde-f038669a2f42987f/out
